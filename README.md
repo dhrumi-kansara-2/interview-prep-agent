@@ -16,22 +16,22 @@ You upload your **résumé** and paste a **job description** and the AI agent do
 
 ## How It Works
 
-### Step 1 : Reads your résumé and job description
+### Step 1: Reads your résumé and job description
 Extracts all text from your PDF résumé and the job posting.
 
-### Step 2 : Finds your skill gaps
+### Step 2: Finds your skill gaps
 Compares what you have vs what the job needs. Shows you exactly what skills you are missing.
 
-### Step 3 : Generates personalised questions
-Creates 5 technical questions and 3 behavioural questions based specifically on your gaps : not generic ones.
+### Step 3: Generates personalised questions
+Creates 5 technical questions and 3 behavioural questions based specifically on your gaps: not generic ones.
 
-### Step 4 : Evaluates your answers
+### Step 4: Evaluates your answers
 You type your answer → AI scores it 1 to 10, tells you what was good, what was weak, and shows you a model answer.
 
-### Step 5 : Tracks your progress
+### Step 5: Tracks your progress
 Stores every question and answer in a database so it can see how you improve across the session.
 
-### Step 6 : Gives a final report
+### Step 6: Gives a final report
 Shows your overall readiness score, your weakest areas, and 3 specific things to improve before the interview.
 
 ---
