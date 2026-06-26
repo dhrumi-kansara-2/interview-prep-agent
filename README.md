@@ -54,7 +54,7 @@ Shows your overall readiness score, your weakest areas, and 3 specific things to
 ## Setup
  
 ```bash
-git clone https://github.com/YOUR_USERNAME/interview-prep-agent.git
+git clone https://github.com/dhrumi-kansara-2/interview-prep-agent.git
 cd interview-prep-agent
 cp .env.example .env
 # Add your API keys to .env
