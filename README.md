@@ -46,11 +46,4 @@ LANGCHAIN_PROJECT=interview-prep-agent
 | Frontend | Streamlit |
 | Observability | LangSmith |
 | Infra | Docker Compose |
-
-## Services
-
-| Service | Port |
-|---|---|
-| Streamlit UI | 8501 |
-| FastAPI backend | 8000 |
-| ChromaDB | 8002 |
+ 
