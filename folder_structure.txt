@@ -1,0 +1,25 @@
+interview-prep-agent/
+├── docker-compose.yml
+├── .env.example
+├── README.md
+├── backend/
+│   ├── Dockerfile
+│   ├── requirements.txt
+│   ├── main.py
+│   ├── agent/
+│   │   ├── graph.py
+│   │   ├── nodes.py
+│   │   ├── state.py
+│   │   └── prompts.py
+│   ├── schemas/
+│   │   └── models.py
+│   ├── services/
+│   │   ├── pdf_parser.py
+│   │   ├── vector_store.py
+│   │   └── langsmith.py
+│   └── utils/
+│       └── helpers.py
+└── frontend/
+    ├── Dockerfile
+    ├── requirements.txt
+    └── app.py
